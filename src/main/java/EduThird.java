@@ -26,5 +26,6 @@ public class EduThird {
             }
             System.out.println(j);
         }
+
     }
 }
